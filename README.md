@@ -97,6 +97,8 @@ But if your console looks like this, then you didn't properly enable mixed conte
 
 <img width="1097" alt="Screen Shot 2022-03-01 at 8 33 49 AM" src="https://user-images.githubusercontent.com/16888908/156198610-041df882-662a-416d-8490-0e323d44c7f1.png">
 
+Any questions? Ask them in the [discussion forum](https://github.com/codergator/russia-must-be-stopped/discussions).
+
 
 # Other similar projects and forks
 
