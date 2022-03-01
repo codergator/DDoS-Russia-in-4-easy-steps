@@ -82,4 +82,3 @@ But if your console looks like this, then you didn't properly enable mixed conte
 
 * https://github.com/erkexzcx/stoppropaganda
 * https://github.com/ajax-lives/NoRussian
-* 
