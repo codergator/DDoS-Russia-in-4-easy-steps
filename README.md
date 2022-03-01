@@ -1,6 +1,6 @@
 # DDoS'ing for beginners: DDoS Russia in 4 easy steps 
 
-Easily support 🇺🇦 🇺🇦 Ukraine 🇺🇦 🇺🇦 by joining in the DDoS effort. Here's how, in **4** steps.
+Support 🇺🇦 🇺🇦 Ukraine 🇺🇦 🇺🇦 by joining in the DDoS effort! Here's how, in **4** steps.
 
 **System Requirements**
 
