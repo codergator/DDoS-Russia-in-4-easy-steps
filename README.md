@@ -12,9 +12,30 @@ Protect yourself by make your connections come from a different location than yo
 
 
 
-## 2. Disable CORS in your browser.
+## 2. Disable CORS in a new Chrome browser profile.
 
-This is essential: it allows the code to make the network connections. I use **a separate profile** in Chrome with the [Allow CORS](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) extension. If you use Allow CORS (it's the easiest way I've found), just change Option 4 to `*`:
+> These instructions use Chrome because it's secure and not hard to configure.
+
+This is essential: it allows the code to make the network connections. Create a **new, a separate profile** in Chrome for this.
+**Do not simply disable CORS in your current browser profile.**
+
+To create a new profile, first click your current profile avatar in the upper right corner. Then click **+ Add** to add a new profile:
+
+<img width="343" alt="Screen Shot 2022-03-01 at 11 13 23 AM" src="https://user-images.githubusercontent.com/16888908/156225629-48406132-d936-4060-9d41-64fb5fcdd26d.png">
+
+In the next screen, click **Continue without an account**:
+
+<img width="732" alt="Screen Shot 2022-03-01 at 11 08 27 AM" src="https://user-images.githubusercontent.com/16888908/156225725-4bc3afe5-1c6a-4b83-bdad-aa6f3afb3a8f.png">
+
+Now you can give the new profile a name:
+
+<img width="732" alt="Screen Shot 2022-03-01 at 11 08 47 AM" src="https://user-images.githubusercontent.com/16888908/156225866-94fc3be6-9d17-4d49-a422-46c5c4946496.png">
+
+Finally, you'll a new profile just for doing the DDoS'ing:
+
+<img width="775" alt="Screen Shot 2022-03-01 at 11 12 10 AM" src="https://user-images.githubusercontent.com/16888908/156225941-5ba742b8-703c-45ed-919d-772349eb0532.png">
+
+Now install [Allow CORS](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) into your new profile. If you use Allow CORS (it's the easiest way I've found), just change Option 4 to `*`:
 
 <img width="825" alt="Screen Shot 2022-03-01 at 7 40 35 AM" src="https://user-images.githubusercontent.com/16888908/156189279-78f2da97-dd69-404c-92b6-84488c047d44.png">
 
@@ -29,13 +50,12 @@ Then, be sure to actually turn on the extension itself. The "C" logo will appear
 Here's [the source code](https://github.com/codergator/russia-must-be-stopped/blob/master/russia-must-be-stopped.html), if you want to examine it. It's pretty simple, IMO.
 
 
+
 ## 4. Enable mixed content.
 
 At this point, the script is running, but can only connect to the sites that use `https`.
 But some of these Russian sites are still on `http`. In order to hit those as well, we need
 to enable "mixed content" (a mix of `https` and `http`). 
-
-### Instructions for the Chrome Browser
 
 First, click the lock to the left of the URL, then click **Site settings**:
 
