@@ -24,9 +24,9 @@ Protect yourself by make your connections come from a different location than yo
 
 This is essential: it allows the code to make the network connections. Follow these instructions to create a **new, a separate profile** in Chrome for this.
 
-⚠️ **Do not simply disable CORS in your current browser profile. Follow the instructions below to create a new profile just for DDoS'ing:** ⚠️
+⚠️ **Do not simply disable CORS in your current browser profile.** ⚠️
 
-To create a new profile, first click your current profile avatar in the upper right corner. Then click **+ Add** to add a new profile:
+Continue following the instructions to keep yourself safe. To create the new profile, first click your current profile avatar in the upper right corner. Then click **+ Add** to add a new profile:
 
 <img width="343" alt="Screen Shot 2022-03-01 at 11 13 23 AM" src="https://user-images.githubusercontent.com/16888908/156227020-12ab6639-c526-4858-a0c9-a32d7f2b39dc.png">
 
