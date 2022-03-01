@@ -1,6 +1,12 @@
 # DDoS'ing for beginners: DDoS Russia in 4 easy steps 
 
-Easily support 🇺🇦 🇺🇦 Ukraine 🇺🇦 🇺🇦 by joining in the DDoS effort. Here's how, in **4** steps:
+Easily support 🇺🇦 🇺🇦 Ukraine 🇺🇦 🇺🇦 by joining in the DDoS effort. Here's how, in **4** steps.
+
+**System Requirements**
+
+I'm running this on a 2011 Mac Mini with 4GB RAM. 
+If it shows "insufficient resources" errors when you run it, that means it's using too much memory.
+Open up an issue if that's the case. We could make the memory usage configurable.
 
 
 
