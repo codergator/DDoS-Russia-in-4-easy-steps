@@ -7,8 +7,8 @@ Support 🇺🇦 🇺🇦 Ukraine 🇺🇦 🇺🇦 by joining in the DDoS effor
 I started with the code that's been floating around [on Reddit](https://www.reddit.com/r/ukraine/comments/t1tjux/wont_be_getting_to_ukraine_for_a_while_might_as/), and then:
 
 * I added these docs showing how to safely set up the VPN, CORS, and mixed content.
-* I've been continuously updating the list from IT Army of Ukraine info.
-* Supported low RAM (4GB) machines [by reducing the `CONCURRENCY_LIMIT` from 1,000 to 500](https://github.com/codergator/russia-must-be-stopped/blob/master/russia-must-be-stopped.html#L271).
+* I've been continuously updating from IT Army of Ukraine info.
+* Added support for low RAM (4GB) machines [by reducing the `CONCURRENCY_LIMIT` from 1,000 to 500](https://github.com/codergator/russia-must-be-stopped/blob/master/russia-must-be-stopped.html#L271).
 
 
 
