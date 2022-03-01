@@ -5,7 +5,7 @@ Support 🇺🇦 🇺🇦 Ukraine 🇺🇦 🇺🇦 by joining in the DDoS effor
 **System Requirements**
 
 I'm running this on a 2011 Mac Mini with 4GB RAM. 
-If it shows "insufficient resources" errors when you run it, that means it's using too much memory.
+You can tell you're running out of memory if the console shows "insufficient resources" errors.
 Open up an issue if that's the case. We could make the memory usage configurable.
 
 
