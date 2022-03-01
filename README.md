@@ -1,4 +1,4 @@
-# russia-must-be-stopped
+# 🇺🇦 🇺🇦 🇺🇦 russia-must-be-stopped 🇺🇦 🇺🇦 🇺🇦
 
 Easily join in the DDOS effort. Here's how, in **4** steps:
 
