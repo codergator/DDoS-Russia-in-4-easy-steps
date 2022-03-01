@@ -14,7 +14,7 @@ Protect yourself by make your connections come from a different location than yo
 
 ## 2. Disable CORS in your browser.
 
-This is essential: it allows the code to make the network connections. I use a separate profile in Chrome with the [Allow CORS](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) extension. If you use Allow CORS (it's the easiest way I've found), just change Option 4 to `*`:
+This is essential: it allows the code to make the network connections. I use **a separate profile** in Chrome with the [Allow CORS](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) extension. If you use Allow CORS (it's the easiest way I've found), just change Option 4 to `*`:
 
 <img width="825" alt="Screen Shot 2022-03-01 at 7 40 35 AM" src="https://user-images.githubusercontent.com/16888908/156189279-78f2da97-dd69-404c-92b6-84488c047d44.png">
 
