@@ -1,6 +1,6 @@
 # russia-must-be-stopped 
 
-Easily support 🇺🇦 🇺🇦 Ukraine 🇺🇦 🇺🇦 by joining in the DDOS effort. Here's how, in **4** steps:
+Easily support 🇺🇦 🇺🇦 Ukraine 🇺🇦 🇺🇦 by joining in the DDoS effort. Here's how, in **4** steps:
 
 
 
