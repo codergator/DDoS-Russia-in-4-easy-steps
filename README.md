@@ -2,6 +2,15 @@
 
 Support 🇺🇦 🇺🇦 Ukraine 🇺🇦 🇺🇦 by joining in the DDoS effort! Here's how, in **4** steps.
 
+### Credit
+
+I started with the code that's been floating around [on Reddit](https://www.reddit.com/r/ukraine/comments/t1tjux/wont_be_getting_to_ukraine_for_a_while_might_as/), and then:
+
+* I added docs showing how to safely set up the VPN, CORS, and mixed content.
+* I've been continuously updating the list from IT Army of Ukraine info.
+
+
+
 ### System Requirements
 
 **I'm running this on a 2011 Mac Mini with 4GB RAM.**
