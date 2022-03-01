@@ -21,7 +21,7 @@ This is essential: it allows the code to make the network connections. Create a 
 
 To create a new profile, first click your current profile avatar in the upper right corner. Then click **+ Add** to add a new profile:
 
-<img width="343" alt="Screen Shot 2022-03-01 at 11 13 23 AM" src="https://user-images.githubusercontent.com/16888908/156225629-48406132-d936-4060-9d41-64fb5fcdd26d.png">
+<img width="343" alt="Screen Shot 2022-03-01 at 11 13 23 AM" src="https://user-images.githubusercontent.com/16888908/156227020-12ab6639-c526-4858-a0c9-a32d7f2b39dc.png">
 
 In the next screen, click **Continue without an account**:
 
