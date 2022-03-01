@@ -51,6 +51,28 @@ Change it to **Allow**:
 
 <img width="652" alt="Screen Shot 2022-03-01 at 7 54 58 AM" src="https://user-images.githubusercontent.com/16888908/156196908-fc585d69-ac85-4308-8823-18150622ea17.png">
 
+You'll probably have to reload the page to pick up the new setting. Chrome gives a helpful button for that:
 
-Your browser will load all the URLs, even the ones over `http`.
 
+<img width="517" alt="Screen Shot 2022-03-01 at 7 59 26 AM" src="https://user-images.githubusercontent.com/16888908/156197819-01d71815-fda8-4bed-a50d-4e00a9bdfa87.png">
+
+
+And you're **done**. Your browser will load all the URLs, even the ones over `http`.
+
+
+
+## 5. Verify it's working.
+
+Welcome to step #5 out of 4. You should probably make sure this is actually working correctly. It took me several tries to get it right. To do this, open up the Javascript Console. On the Mac, it's alt-cmd-j. You can also right-click on the page, choose **Inspect**, and then switch to the **Console**. It should look like this:
+
+<img width="1101" alt="Screen Shot 2022-03-01 at 7 59 56 AM" src="https://user-images.githubusercontent.com/16888908/156197919-77eb63aa-13ce-4683-91a2-9c02c304310e.png">
+
+Uncheck **Group similar messages in console**. Now it should look like this:
+
+<img width="1101" alt="Screen Shot 2022-03-01 at 7 59 52 AM" src="https://user-images.githubusercontent.com/16888908/156198025-762c200a-ddd2-4660-9882-6dabf4e351eb.png">
+
+Notice how the browser is complaining about the mixed content, but it's going ahead and loading it anyway. Because I enabled it in Step 4.
+
+But if your console looks like this, then you didn't properly enable mixed content. Go back and try again:
+
+<img width="1097" alt="Screen Shot 2022-03-01 at 8 33 49 AM" src="https://user-images.githubusercontent.com/16888908/156198610-041df882-662a-416d-8490-0e323d44c7f1.png">
