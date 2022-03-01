@@ -22,8 +22,9 @@ Protect yourself by make your connections come from a different location than yo
 
 > These instructions use Chrome because it's secure and not hard to configure.
 
-This is essential: it allows the code to make the network connections. Create a **new, a separate profile** in Chrome for this.
-**Do not simply disable CORS in your current browser profile.**
+This is essential: it allows the code to make the network connections. Follow these instructions to create a **new, a separate profile** in Chrome for this.
+
+⚠️ **Do not simply disable CORS in your current browser profile. Follow the instructions below to create a new profile just for DDoS'ing:** ⚠️
 
 To create a new profile, first click your current profile avatar in the upper right corner. Then click **+ Add** to add a new profile:
 
