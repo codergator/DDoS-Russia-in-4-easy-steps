@@ -64,7 +64,7 @@ Then, be sure to actually turn on the extension itself. The "C" logo will appear
 
 ## 3. Browse to [russia-must-be-stopped.html](https://codergator.github.io/DDoS-Russia-in-4-easy-steps/russia-must-be-stopped.html).
 
-Here's [the source code](https://github.com/codergator/russia-must-be-stopped/blob/master/russia-must-be-stopped.html), if you want to examine it. It's pretty simple, IMO.
+Here's [the source code](https://github.com/codergator/DDoS-Russia-in-4-easy-steps/blob/master/russia-must-be-stopped.html), if you want to examine it. It's pretty simple, IMO.
 
 
 
