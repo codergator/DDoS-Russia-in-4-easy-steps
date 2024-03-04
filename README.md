@@ -52,9 +52,9 @@ Finally, you'll a new profile just for doing the DDoS'ing:
 
 <img width="775" alt="Screen Shot 2022-03-01 at 11 12 10 AM" src="https://user-images.githubusercontent.com/16888908/156225941-5ba742b8-703c-45ed-919d-772349eb0532.png">
 
-Now install [Allow CORS](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) into your new profile. If you use Allow CORS (it's the easiest way I've found), just change Option 4 to `*`:
+Now install [Allow CORS](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf) into your new profile. If you use Allow CORS (it's the easiest way I've found), just change Option 5 to `*`:
 
-<img width="825" alt="Screen Shot 2022-03-01 at 7 40 35 AM" src="https://user-images.githubusercontent.com/16888908/156189279-78f2da97-dd69-404c-92b6-84488c047d44.png">
+![image](https://github.com/codergator/DDoS-Russia-in-4-easy-steps/assets/11671068/5807babb-9892-4bef-bcff-688f25817bae)
 
 Then, be sure to actually turn on the extension itself. The "C" logo will appear orange:
 
